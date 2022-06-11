@@ -34,6 +34,8 @@ Aca esta mas orientado al entorno empresarial.
 - **Azure Boards:** Administracion de proyectos agil que incluye paneles Kanban, informes, ideas de seguimiento,etc.
 
 ![Azure Boards](Imagenes/AzureBoards.png)
+
+
 ayuda a la gestion del proyecto mas facil
  
  ------------------------------------------------------------------------------------------
@@ -42,7 +44,9 @@ ayuda a la gestion del proyecto mas facil
 
 ![Azure Pipelines](Imagenes/AzurePipelines.png)
 
+
 CI-> Integracion continua, Continous Integration (hace la pagina automaticamente)
+
 cD-> Despliegue continuo, Continous Deployment (es subir todo)
 
 ------------------------------------------------------------------------------------------------------
