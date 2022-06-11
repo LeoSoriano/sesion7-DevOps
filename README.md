@@ -13,7 +13,7 @@
 Aca esta mas orientado al entorno empresarial.
 
 - **Modelo de Servicio:** SaaS.
-- **Funcion:**Servicios que aborda cada fase del ciclo de vida de desarrollo de software.
+- **Funcion:** Servicios que aborda cada fase del ciclo de vida de desarrollo de software.
 - **Caracteristicas:** Se puede implementar con App Service, Azure Functions..
 - **Funcion:** Mejora la gestion del software.
 - **Cuando usar:** Para codigo de uso productivo de la empresa.
